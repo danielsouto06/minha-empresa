@@ -1,0 +1,62 @@
+.nome1{
+    background-color: lightgray;
+    font-size: 50px;
+    padding: 10px;
+
+
+}
+.nome2{
+    margin-top: 70px;
+    font-size: 30px;
+}
+
+.nome3{
+    margin-top: 200px;
+    font-size: 30px;
+}
+.imagem1{
+    text-align: center;
+    }
+    p{
+        font-size:20px;
+    }
+    a{
+        color: blue;
+    }
+    .imagem2{
+        display: table-cell;
+        float: right;
+        padding: 100px;
+        text-align: center;
+        }
+     
+    .texto1{
+        display: table-cell;
+        float: left;
+        width: 800px;
+    }
+    .texto2{
+        display: table-cell;
+        float: left;
+        width: 800px;
+    }
+    .anuncio{
+        text-align: center;
+        display: block;
+        background-color: rgb(38, 38, 39);
+        color: rgb(194, 177, 28);
+        font-size: 50px;
+        margin: 50px;
+        padding: 40px;
+        margin-bottom: 100px;
+        }
+    .icone{
+        display: table-cell;
+        float: left;
+    }
+    .trademark{
+        display: flex;
+        float: right;
+        width:250px;
+        margin-top: 30px;
+    }
